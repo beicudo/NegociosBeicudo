@@ -1,0 +1,12 @@
+git clone https://github.com/beicudo/NegociosBeicudo.git
+criar uma cópia do projeto no computador local
+
+git status
+mostra o status do git, se não tem arquivos commitados ou modificados.
+
+git add comandos_git.txt
+adiciona o arquivo comandos_git.txt na área de stagging
+
+git add .
+adiciona todos os arquivos alterados ou criados para área de stagging
+
