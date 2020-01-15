@@ -10,3 +10,12 @@ adiciona o arquivo comandos_git.txt na área de stagging
 git add .
 adiciona todos os arquivos alterados ou criados para área de stagging
 
+git commit -m "e os guri fazendo o primeiro commit"
+confirma os arquivos que estão na área de stagging
+
+git log
+mostra o log de confirmaçoes(commits)
+
+git diff comandos_git.txt
+mostra a diferença entre oque foi alterado e o último commit
+
