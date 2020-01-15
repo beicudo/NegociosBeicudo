@@ -33,4 +33,5 @@ pega as alterações do repositório remoto (github)
 
 site: github.com
 beicudorodrigues
+https://github.com/beicudo/NegociosBeicudo  pagina dos guri
 
